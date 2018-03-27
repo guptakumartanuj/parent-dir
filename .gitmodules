@@ -1,0 +1,3 @@
+[submodule "child-dir"]
+	path = child-dir
+	url = https://github.com/guptakumartanuj/child-dir.git
